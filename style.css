@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+}
+
+header{
+    background-color: red;
+}
+
+#menu{
+    display: inline-block;
+    vertical-align: top;
+    /*float: left;*/
+    width: 60%;
+    background-color: blue;
+}
+
+#order{
+    /*float: right;*/
+    display: inline-block;
+    vertical-align: top;
+    width: 39%;
+    background-color: green;
+}
+
+.menuPart{
+    display: inline-block;
+    vertical-align: top;
+    background-color: cyan;
+    width: 49%;
+    margin: 2px;
+}
