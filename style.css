@@ -9,13 +9,11 @@ header{
 #menu{
     display: inline-block;
     vertical-align: top;
-    /*float: left;*/
     width: 60%;
     background-color: blue;
 }
 
 #order{
-    /*float: right;*/
     display: inline-block;
     vertical-align: top;
     width: 39%;
